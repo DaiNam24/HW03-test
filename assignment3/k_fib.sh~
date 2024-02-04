@@ -9,7 +9,7 @@ echo The K-Fibonacci series:
 
 k_Fib=()
 
-x=3
+x=5
 
 sum=$N
 
@@ -32,7 +32,7 @@ else
 	done
 fi
 
-echo "${k_Fib[*]}," "..."
+echo ${k_Fib[*]} "..."
 
 
 

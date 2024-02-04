@@ -21,8 +21,6 @@ else
 		k_Fib[$i]=1
 		i=$((i+1))	
 	done
-		
-	#k_Fib[$i]=$N
 
 	for i in $(seq $N $((N+x)))
 	do
